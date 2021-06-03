@@ -20,7 +20,7 @@ Access Website
 	===================
 	- http://qhomemart.moh-susilo.my.id/login/
 
-		Email: member@gmail.com
+		Email: member@member.com
 		Password: member
 
 ###############
